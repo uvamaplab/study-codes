@@ -1,7 +1,7 @@
 {
   "MTE": {
     "name": "Mind Trails Spanish",
-    "repo": "TeachmanLab/mindtrails_spanish",
+    "repo": "uvamaplab-protocols/mindtrails_spanish",
     "lang": [
       "es"
     ],
@@ -11,7 +11,7 @@
   },
   "MTE-T": {
     "name": "Mind Trails Spanish Test",
-    "repo": "TeachmanLab/mindtrails_spanish",
+    "repo": "uvamaplab-protocols/mindtrails_spanish",
     "lang": [
       "es"
     ],
@@ -21,7 +21,7 @@
   },
   "MTE-D": {
     "name": "Mind Trails Spanish Test",
-    "repo": "TeachmanLab/mindtrails_spanish",
+    "repo": "uvamaplab-protocols/mindtrails_spanish",
     "lang": [
       "es"
     ],
@@ -32,7 +32,7 @@
   },
   "MTM": {
     "name": "Mind Trails Movement",
-    "repo": "TeachmanLab/mindtrails_movement",
+    "repo": "uvamaplab-protocols/mindtrails_movement",
     "container_name": "mtm",
     "datums_endpoint": "https://api.digital-trails.org/datums",
     "requires_invitation": true,
@@ -42,14 +42,14 @@
   },
   "MTM-T": {
     "name": "Mind Trails Movement Test",
-    "repo": "TeachmanLab/mindtrails_movement",
+    "repo": "uvamaplab-protocols/mindtrails_movement",
     "container_name": "mtm",
     "config": "flow://flows/configs.json",
     "show_settings_config": true
   },
   "MTM-T2": {
     "name": "Mind Trails Movement Test",
-    "repo": "TeachmanLab/mindtrails_movement",
+    "repo": "uvamaplab-protocols/mindtrails_movement",
     "container_name": "mtm-t2",
     "datums_endpoint": "https://api.digital-trails.org/datums",
     "config": "flow://flows/configs.json",
@@ -57,7 +57,7 @@
   },
   "MTM-F": {
     "name": "Mind Trails Movement",
-    "repo": "TeachmanLab/mindtrails_movement",
+    "repo": "uvamaplab-protocols/mindtrails_movement",
     "container_name": "mtm",
     "datums_endpoint": "https://api.digital-trails.org/datums",
     "config": "flow://flows/configs.json",
