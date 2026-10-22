@@ -65,23 +65,23 @@
   },
   "MTP": {
     "name": "Mind Trails",
-    "repo": "digital-trails/protocol-uma",
+    "repo": "uvamaplab-protocols/uma",
     "container_name": "uma",
     "show_settings_config": false
   },
   "SAB": {
     "name": "Recovery Support",
-    "repo": "digital-trails/protocol-sab",
+    "repo": "uvamaplab-protocols/sab",
     "container_name": "sab"
   },
   "MTO": {
     "name": "MindTrails On Cue",
-    "repo": "digital-trails/protocol-leia",
+    "repo": "uvamaplab-protocols/leia",
     "container_name": "leia"
   },
   "Test": {
     "name": "test",
-    "repo": "digital-trails/protocol-test",
+    "repo": "uvamaplab-protocols/test",
     "container_name": "test",
     "consent_url": "https://virginiahsd.co1.qualtrics.com/jfe/form/SV_1RNB6Xz19Q8Fh30",
     "config": "flow://flows/configs.json",
@@ -97,30 +97,30 @@
   },
   "uitest": {
     "name": "uitest",
-    "repo": "digital-trails/protocol-uitest",
+    "repo": "uvamaplab-protocols/uitest",
     "container_name": "uitest",
     "config": "flow://flows/configs.json"
   },
   "Demo": {
     "name": "Digital Trails Demo",
-    "repo": "digital-trails/protocol-demo",
+    "repo": "uvamaplab-protocols/demo",
     "container_name": "demo"
   },
   "MindMove": {
     "name": "Mind in Motion",
-    "repo": "digital-trails/protocol-mindmove",
+    "repo": "uvamaplab-protocols/mindmove",
     "config": "flow://flows/configs.json",
     "container_name": "mind-move",
     "public": true
   },
   "BCM": {
     "name": "BCM",
-    "repo": "digital-trails/protocol-bcm",
+    "repo": "uvamaplab-protocols/bcm",
     "container_name": "bcm"
   },
   "BCS": {
     "name": "BCS Options",
-    "repo": "digital-trails/protocol-cbcso",
+    "repo": "uvamaplab-protocols/bcs",
     "container_name": "bcs"
   },
   "ib": {
@@ -130,27 +130,27 @@
   },
   "tremor": {
     "name": "Tremor Retrainer",
-    "repo": "digital-trails/protocol-tremor-trainer",
+    "repo": "uvamaplab-protocols/tremor",
     "container_name": "tremor",
     "datums_endpoint": "https://api.digital-trails.org/datums"
   },
   "sleep": {
     "container_name": "sleep",
-    "repo" :"digital-trails/protocol-sleep"
+    "repo" :"uvamaplab-protocols/sleep"
   },
   "cycle": {
     "container_name": "cycle",
-    "repo": "digital-trails/protocol-cycle"
+    "repo": "uvamaplab-protocols/cycle"
   },
   "er": {
     "name": "ED Connect",
-    "repo": "digital-trails/tyde-er",
+    "repo": "uvamaplab-protocols/tyde-er",
     "container_name": "er",
     "config": "flow://flows/configs.json"
   },
   "MTT": {
     "container_name": "mtt",
-    "repo": "digital-trails/protocol-teen"
+    "repo": "uvamaplab-protocols/teen"
   }
 }
 
